@@ -30,7 +30,7 @@ nav li a{
 }
 
 #your-email{
-    padding: 0.5rem 5rem 0.5rem 0.5rem;
+    padding: 0.5rem 4rem 0.5rem 0.5rem;
     border: 1px solid black;
     color: black;
     border-radius: 3px;
@@ -73,9 +73,57 @@ nav li a{
   }
   
   .productive{
-    background-image: url(images/bg-curve-desktop.svg);
-    width: 60rem;
-    height: 7rem;
-    border-radius:20px ;
+   margin-right: 9rem;
+   margin-top: 5rem;
+   background-color: aliceblue;
+   padding: 3rem;
     
+  }
+
+  .testimonial3{
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    margin-top: 2rem;
+  }
+
+  .testimonial4{
+    display: flex;
+    padding-top: 1rem;
+    width: 300px;
+    height: 100px;
+    background-color: white;
+  }
+
+  #ceo{
+    font-size: 10px;
+    color: gray;
+  }
+
+  .testimonial4 img{
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+  }
+
+  .testimonial4 h2{
+   padding-left: 0.5rem;
+   padding-top: 0.5rem;
+   font-size: 18px;
+  }
+
+  .testimonial5 img{
+    width: 400px;
+    height: 300px;
+    margin-left: 3rem;
+    margin-top: 0.5rem;
+  }
+
+  .productive{
+    display: flex;
+  }
+
+  .stay p{
+    font-size: small;
+    margin-top: 1rem;
   }
