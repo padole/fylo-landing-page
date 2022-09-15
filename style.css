@@ -253,4 +253,27 @@ nav li a{
   padding-left: 0.5rem;
  }
 
+ @media (max-width: 768px){
+  body{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    }
+
+    .location{
+      display: block;
+    }
+
+    #started{
+      margin-top: 0.5rem;
+      padding-left: 5.7rem;
+      padding-right: 5rem;
+    }
+
+    .illustration img{
+      width: 25rem;
+      padding-right: 7rem;
+    }
+    
+ }
   
